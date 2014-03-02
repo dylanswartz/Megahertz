@@ -1,0 +1,22 @@
+{
+  "name": "mhz",
+  "version": "0.0.0",
+  "description": "utility for comparing audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanswartz/Megahertz.git"
+  },
+  "keywords": [
+    "audio"
+  ],
+  "author": "Dylan Swartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanswartz/Megahertz/issues"
+  },
+  "homepage": "https://github.com/dylanswartz/Megahertz"
+}
