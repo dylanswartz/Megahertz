@@ -1,1 +1,1 @@
-module.exports = require('./lib/mhz');
+module.exports = require('./lib/megahertz');
