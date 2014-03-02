@@ -4,7 +4,7 @@
   "description": "utility for comparing audio",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "jasmine-node lib/test"
   },
   "repository": {
     "type": "git",
